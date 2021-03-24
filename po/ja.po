@@ -1235,22 +1235,18 @@ msgid "##### Reporting a Potential Code of Conduct Incident "
 msgstr "行動規範インシデントの可能性があるものの報告の仕方"
 
 #: topic_folders/policies/incident-reporting.md:5
-# unordered list
 msgid "If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member  to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures."
 msgstr "カーペントリーズのワークショップ、対面イベント、またはオンラインイベントやコミュニケーションチャンネルのいずれかに参加していて、誰かが身の危険にさらされていると思われた場合は、ワークショップの主催者、インストラクター、または別のコミュニティメンバーに依頼し、適切な緊急対応要員（警察、危機ホットラインなど）に連絡してください。カーペントリーズのワークショップや対面イベントの前に、イベント主催者は緊急連絡先番号と現地での手順を決める必要があります。"
 
 #: topic_folders/policies/incident-reporting.md:7
-# unordered list
 msgid "If you believe someone violated the [Code of Conduct](../policies/code-of-conduct.md) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information. "
 msgstr "カーペントリーズのイベント中またはカーペントリーズのオンラインスペースで誰かが[行動規範](../policies/code-of-conduct.md)に違反したと思われる場合は、報告してください。インシデントがカーペントリーズの管理下にある場所で起こったかどうかわからない場合でも、インシデントを報告するようお願いします。[行動規範インシデントレポートフォーム][reporting-form]の全ての項目に記入し、レポートを提出することをお勧めします。フォームは匿名で記入することも、連絡先情報を含めることもできます。"
 
 #: topic_folders/policies/incident-reporting.md:9
-# unordered list
 msgid "__[Submit a Code of Conduct Incident Report][reporting-form]__"
 msgstr "__[行動規範インシデントレポートを提出する][reporting-form]__"
 
 #: topic_folders/policies/incident-reporting.md:11
-# unordered list
 msgid "The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.md).  A report guarantees review, but not necessarily that an action will be taken."
 msgstr "行動規範委員会は、すべてのインシデントレポートを真剣に受け止め、[施行ガイドライン](enforcement-guidelines.md)に従ってすべてのレポートをレビューします。レポートはレビューを保証しますが、必ずしも何らかのアクションが行われるわけではありません。"
 
@@ -1264,7 +1260,6 @@ msgid "If you would prefer other ways to contact us, an email to [coc@carpentrie
 msgstr "他の方法でお問い合わせをご希望の場合は、[coc@carpentries.org](mailto:coc@carpentries.org) 宛てのeメールがすべての[行動規範委員会](https://carpentries.org/coc-ctte)のメンバーの目に入るようになっています。行動規範委員会への報告に不安がある場合は、カーペントリーズの指定オンブズマンである Cam Macdonell に [confidential@carpentries.org](mailto:confidential@carpentries.org) でインシデントを報告することもできます。"
 
 #: topic_folders/policies/incident-reporting.md:17
-# unordered list
 msgid "The Carpentries Executive Director (Kari L. Jordan) can also be contacted by telephone at +1-407-476-6131 or email at [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org)."
 msgstr "カーペントリーズのエグゼクティブディレクター (Kari L. Jordan) には、電話 +1-407-476-6131 または eメール [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org) で連絡できます。"
 
@@ -1274,27 +1269,22 @@ msgid "##### Confidentiality"
 msgstr "守秘義務"
 
 #: topic_folders/policies/incident-reporting.md:22
-# unordered list
 msgid "You are welcome to report an incident anonymously. If you would like someone to follow-up with you about the progress of your incident report however, you would need to provide contact information."
 msgstr "匿名でインシデントを報告することを歓迎します。ただし、インシデントレポートの進捗状況について誰かにフォローアップしてもらうことを望まれる場合は、連絡先情報を提供していただく必要があります。"
 
 #: topic_folders/policies/incident-reporting.md:24
-# unordered list
 msgid "**All reports will be kept confidential** with details shared only with the Code of Conduct committee members. In the case that a CoC committee member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the CoC committee. "
 msgstr "**すべての報告は秘密に保たれ**、その詳細は行動規範委員会のメンバーとのみ共有されます。行動規範委員会のメンバーが報告に関与している場合、メンバーは進行中の会話から身を引くように求められ、施行の決定がなされた後は報告にアクセスできなくなります。解決措置には、行動規範委員会からのそのメンバーの削除も含まれる場合があります。"
 
 #: topic_folders/policies/incident-reporting.md:26
-# unordered list
 msgid "In rare cases, the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Core Team will be informed in order to prevent future harm to the community, and The Carpentries Core Team [Immediate Response Checklist](incident-response.html#checklists-for-responding-to-an-incident) will be employed. "
 msgstr "まれに、行動規範委員会がコミュニティメンバーのメンバーシップを一時的に止める場合があります。このような場合、コミュニティへの将来の危害を防ぐために、執行評議会とカーペントリーズコアチームに通知され、カーペントリーズコアチームの[即時対応チェックリスト](incident-response.html#checklists-for-responding-to-an-incident)が採用されます。"
 
 #: topic_folders/policies/incident-reporting.md:28
-# unordered list
 msgid "Some incidents happen in one-on-one interactions, and though details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases, we can compile several anonymised reports into a pattern of behaviour, and take action on that pattern."
 msgstr "一部のインシデントは1対1のやり取りで発生し、詳細は匿名化されていますが、報告された人は誰が報告したかを推測できる場合があります。報復や個人の安全について懸念がある場合は、レポートでそれらの懸念を注記してください。コミュニティメンバーの安全を守りながらサポートできるように、インシデントを報告することをお勧めします。匿名化されたいくつかのレポートをある行動のパターンにまとめ、そのパターンに対して措置を取る場合もあり得ます。"
 
 #: topic_folders/policies/incident-reporting.md:30
-# unordered list
 msgid "The Code of Conduct committee may determine that a public statement should be made about the incident and/or the action taken. If that is the case, the identities of all reporters and reportees will remain confidential unless those individuals instruct the CoC committee otherwise. "
 msgstr "行動規範委員会は、インシデントとそれに対して取られた措置について公の声明を出すべきであると決定する場合があります。その場合、すべてのレポーターと被報告者の身元は、それらの個人が行動規範委員会に別段の指示をしない限り、秘密にされます。"
 
@@ -1304,12 +1294,10 @@ msgid "##### Report Data"
 msgstr "レポートデータ"
 
 #: topic_folders/policies/incident-reporting.md:34
-# unordered list
 msgid "Reports can be filed anonymously with minimal details. If you do not feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide, however.  "
 msgstr "レポートは最小限の詳細で匿名で提出できます。あなたが詳細を書けない場合でも、我々はインシデントが発生したものとしてそれを意識します。ですが、私たちが行動できる範囲は、あなたから提供される情報の量に依ります。"
 
 #: topic_folders/policies/incident-reporting.md:36
-# unordered list
 msgid "Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in The Carpentries community. In those cases, the [Termed Suspension Checklist](termed-suspension.md) will be employed. "
 msgstr "コミュニティメンバーがカーペントリーズコミュニティへの参加を一時的に止められた場合、インシデントに関する情報が関連するカーペントリーズの担当者に伝達される場合があります。その場合、[期間限定停止チェックリスト](termed-suspension.md)が用いられます。"
 
@@ -1319,37 +1307,31 @@ msgid "##### Following Up with Reporter(s)"
 msgstr "レポーターのフォローアップ"
 
 #: topic_folders/policies/incident-reporting.md:40
-# unordered list
 msgid "Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.md)."
 msgstr "[行動規範インシデントレポートフォーム][reporting-form]またはその他のコミュニケーションチャンネルを通じてレポートが提出されると、行動規範委員会が[施行ガイドライン](enforcement-guidelines.md)の手順に従ってレビューとフォローアップを行います。"
 
 #: topic_folders/policies/incident-response.md:1
 # header
 msgid "### Code of Conduct Incident Response Guidelines"
-msgstr "### 行動規範インシデント対応ガイドライン"
+msgstr "行動規範インシデント対応ガイドライン"
 
 #: topic_folders/policies/incident-response.md:3
-# unordered list
 msgid "Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md)."
 msgstr "行動規範インシデントの報告方法に関する情報は、[行動規範インシデント報告ガイドライン](incident-reporting.md)にまとめられています。"
 
 #: topic_folders/policies/incident-response.md:5
-# unordered list
 msgid "The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. "
 msgstr "以下のチェックリストは、行動規範委員会に報告する__前__に、行動規範インシデントの可能性をはらんでいる間にコミュニティメンバー (ワークショップの主催者、[インストラクター](https://carpentries.org/instructors/)、ヘルパーなど）が実行できる手順の概要を示しています。行動規範を気兼ねなく実施するほど経験があったりやトレーニングを受けているわけでもなく、困難な状況に遭遇することもあるかもしれません。これらのガイドラインは、インシデント中に他のコミュニティメンバーとあなた自身を支援するのに役立つことを目的としています。"
 
 #: topic_folders/policies/incident-response.md:7
-# unordered list
 msgid "All Carpentries community members should feel empowered to enforce the Code of Conduct. "
 msgstr "すべてのカーペントリーズのコミュニティメンバーは、行動規範を実施する権限があり、必要だと判断したら、気兼ねなく実施できることになっています。"
 
 #: topic_folders/policies/incident-response.md:9
-# unordered list
 msgid "Ideally, we would all be able to defuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident."
 msgstr "理想的には、どんな場合でも私たち全員がインシデントを静めることができます。しかし、実際には、各自の経験とインシデントが起こった環境によって、取れる対策が変わることがあります。以下は、あなたが被害者を支援できる方法と、インシデントの最中または直後にあなたが取れるインシデントに対する手段です。"
 
 #: topic_folders/policies/incident-response.md:11
-# unordered list
 msgid "If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee."
 msgstr "可能であれば、第三者から観察しているのではなく、状況が更に悪化しないように積極的に行動を取ってください。不適切なことが起こっているのを見つけたら、声を上げてください。あなたが介入することには抵抗があるけれども、他の誰かがそうすべきだと感じた場合は、ワークショップの主催者またはインストラクターに直接レポートするか、行動規範インシデントレポートフォームを介して行動規範委員会にレポートしてください。"
 
@@ -1365,10 +1347,9 @@ msgstr "インシデントへの最初の対応は非常に重要であり、カ
 #: topic_folders/policies/incident-response.md:17
 # header
 msgid "##### Ongoing Incidents"
-msgstr "##### インシデントの進行中"
+msgstr "インシデントの進行中"
 
 #: topic_folders/policies/incident-response.md:19
-# unordered list
 msgid "If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident)."
 msgstr "対面またはオンラインでインシデントが進行中の場合、コミュニティメンバー (ワークショップの主催者、インストラクター、ヘルパー) はすぐに行動し、状況を落ち着かせるためにコミュニティメンバーが利用できるいかなるツールを用いても構いません。コミュニティメンバー個人ががすぐに行動する状況では、できるだけ早くワークショップの主催者に通知し、インシデントから24時間以内にレビューのために行動規範委員会にその行動をレポートする必要があります。即時対応が必要な場合は、即時対応チェックリストをご覧ください。"
 
@@ -1378,7 +1359,6 @@ msgid "##### Checklists for Responding to an Incident"
 msgstr "インシデントに対応するためのチェックリスト"
 
 #: topic_folders/policies/incident-response.md:23
-# unordered list
 msgid "**Immediate Response Checklist**\n"
 "* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.\n"
 "* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.\n"
@@ -1391,7 +1371,6 @@ msgstr "**即時対応チェックリスト**\n"
 "* インシデントを報告する法的義務があるかどうかを含めて、インシデントの処理に関する地域のガイドラインに従ってください。\n"
 
 #: topic_folders/policies/incident-response.md:29
-# unordered list
 msgid "**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**\n"
 "* Ensure participants are safe.\n"
 "* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).\n"
@@ -1406,7 +1385,6 @@ msgstr "**対面イベントチェックリスト (カーペントリーズの�
 "* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム][reporting-form]を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。\n"
 
 #: topic_folders/policies/incident-response.md:36
-# unordered list
 msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\n"
 "* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \n"
 "* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
@@ -1415,12 +1393,10 @@ msgstr "**オンラインイベントとコミュニケーションチャネル�
 "* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム][reporting-form]に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。\n"
 
 #: topic_folders/policies/incident-response.md:40
-# unordered list
 msgid "If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident."
 msgstr "コミュニティメンバーがオンラインイベントを介して行動規範に違反した場合、行動規範委員会は短期の一時停止を制定でき、行動規範委員会が報告れた調査を終了するまで、すべてのカーペントリーズのコミュニケーションチャネルに対する報告された人の権限を一時的に止めることができます。"
 
 #: topic_folders/policies/incident-response.md:42
-# unordered list
 msgid "Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:"
 msgstr "報告された人は、しばしば動揺したり、自己防衛したり、報告を否定したりします。その人にインシデントに関する追加の詳細を提供することを許してあげてください。ただし、次の点に注意してください:"
 
