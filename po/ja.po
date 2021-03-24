@@ -741,6 +741,11 @@ msgstr ""
 msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
 msgstr ""
 
+#: topic_folders/policies/incident-reporting.md:1
+# header
+msgid "### Code of Conduct Incident Reporting Guidelines"
+msgstr "行動規範インシデント報告ガイドライン"
+
 #: topic_folders/policies/core-team/professional-development-policy.md:1
 # header
 msgid "### Carpentries Professional Development Policy"
