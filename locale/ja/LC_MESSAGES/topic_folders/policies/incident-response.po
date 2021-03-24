@@ -24,7 +24,7 @@ msgid "Code of Conduct Incident Response Guidelines"
 msgstr "行動規範インシデント対応ガイドライン"
 
 #: ../../topic_folders/policies/incident-response.md:3
-msgid "Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md)."
+msgid "Information on how to report a Code of Conduct \(CoC\) incident is outlined in our \[Code of Conduct Incident Reporting Guidelines\]\(incident-reporting.md\)."
 msgstr "行動規範インシデントの報告方法に関する情報は、[行動規範インシデント報告ガイドライン](incident-reporting.md)にまとめられています。"
 
 #: ../../topic_folders/policies/incident-response.md:5
