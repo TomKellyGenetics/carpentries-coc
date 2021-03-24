@@ -739,7 +739,7 @@ msgstr ""
 #: topic_folders/policies/incident-response.md:49
 #: topic_folders/policies/termed-suspension.md:92
 msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
-msgstr ""
+msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
 
 #: topic_folders/policies/incident-reporting.md:1
 # header
