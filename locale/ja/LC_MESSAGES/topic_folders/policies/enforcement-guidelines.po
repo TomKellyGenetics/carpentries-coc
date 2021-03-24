@@ -606,6 +606,6 @@ msgid ""
 "of Conduct committee."
 msgstr ""
 
-#: topic_folders/policies/enforcement-guidelines.md:132
-msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
-msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+#~ msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+#~ msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+

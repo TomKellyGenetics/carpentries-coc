@@ -536,8 +536,7 @@ msgstr "* 歓迎的で一部の人に限定しない言葉を使う"
 #: topic_folders/policies/code-of-conduct.md:45
 # unordered list
 msgid "* Be respectful of different viewpoints and experiences"
-msgstr "* さまざまな視点や経験を尊重する
-"
+msgstr "* さまざまな視点や経験を尊重する"
 
 #: topic_folders/policies/code-of-conduct.md:17
 #: topic_folders/policies/code-of-conduct.md:46

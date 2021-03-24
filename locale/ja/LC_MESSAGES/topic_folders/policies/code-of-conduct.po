@@ -63,7 +63,10 @@ msgid ""
 "discomfort is a violation of the Code of Conduct. In order to foster a "
 "positive and professional learning environment we encourage the following"
 " kinds of behaviours in all platforms and events:"
-msgstr "私たちは、生い立ちや身元に関係なく、すべての人々に歓迎的で支援的な環境を提供することに専念しています。 このコミュニティに参加することで、参加者はカーペントリーズの行動規範を遵守し、行動規範のインシデントを解決するための手順を受け入れることに同意することになります。排除、脅迫、または不快感を引き起こす行動は、いかなる形態のものも行動規範の違反となります。 ポジティブでプロフェッショナルな学習環境を育むために、すべてのプラットフォームとイベントで次のような行動をとることをお勧めします:"
+msgstr ""
+"私たちは、生い立ちや身元に関係なく、すべての人々に歓迎的で支援的な環境を提供することに専念しています。 "
+"このコミュニティに参加することで、参加者はカーペントリーズの行動規範を遵守し、行動規範のインシデントを解決するための手順を受け入れることに同意することになります。排除、脅迫、または不快感を引き起こす行動は、いかなる形態のものも行動規範の違反となります。"
+" ポジティブでプロフェッショナルな学習環境を育むために、すべてのプラットフォームとイベントで次のような行動をとることをお勧めします:"
 
 #: ../../topic_folders/policies/code-of-conduct.md:15
 #: ../../topic_folders/policies/code-of-conduct.md:44
@@ -73,8 +76,7 @@ msgstr "歓迎的で一部の人に限定しない言葉を使う"
 #: ../../topic_folders/policies/code-of-conduct.md:16
 #: ../../topic_folders/policies/code-of-conduct.md:45
 msgid "Be respectful of different viewpoints and experiences"
-msgstr "さまざまな視点や経験を尊重する
-"
+msgstr "さまざまな視点や経験を尊重する"
 
 #: ../../topic_folders/policies/code-of-conduct.md:17
 #: ../../topic_folders/policies/code-of-conduct.md:46
@@ -131,7 +133,9 @@ msgid ""
 "the Code of Conduct. It can be contacted by emailing coc@carpentries.org."
 " All reports will be reviewed by the Code of Conduct Committee and will "
 "be kept confidential."
-msgstr "カーペントリーズの行動規範委員会は、行動規範を施行する責任があります。委員会には coc@carpentries.org に電子メールを送ることで連絡できます。すべての報告は行動規範委員会によってレビューされ、機密が保持されます。"
+msgstr ""
+"カーペントリーズの行動規範委員会は、行動規範を施行する責任があります。委員会には coc@carpentries.org "
+"に電子メールを送ることで連絡できます。すべての報告は行動規範委員会によってレビューされ、機密が保持されます。"
 
 #: ../../topic_folders/policies/code-of-conduct.md:34
 msgid "Part 2. The Carpentries Code of Conduct"
@@ -163,7 +167,10 @@ msgid ""
 "participating, participants indicate their acceptance of the procedures "
 "by which The Carpentries resolves any Code of Conduct incidents, which "
 "may include storage and processing of their personal information."
-msgstr "カーペントリーズの活動に参加するすべての人は、この行動規範に準拠する必要があります。この行動規範は、ワークショップ、メーリングリスト、GitHub、Slack、Twitterなどのオンラインフォーラムを含む(しかしこれらに限定されない)カーペントリーズが管理するすべてのスペースに適用されます。ワークショップの主催者は、行動規範の施行を支援することが求められます。 参加者は、参加することにより、カーペントリーズが行動規範のインシデントを解決する手順に同意したことを示します。これには、個人情報の保存と処理が含まれる場合があります。"
+msgstr ""
+"カーペントリーズの活動に参加するすべての人は、この行動規範に準拠する必要があります。この行動規範は、ワークショップ、メーリングリスト、GitHub、Slack、Twitterなどのオンラインフォーラムを含む(しかしこれらに限定されない)カーペントリーズが管理するすべてのスペースに適用されます。ワークショップの主催者は、行動規範の施行を支援することが求められます。"
+" "
+"参加者は、参加することにより、カーペントリーズが行動規範のインシデントを解決する手順に同意したことを示します。これには、個人情報の保存と処理が含まれる場合があります。"
 
 #: ../../topic_folders/policies/code-of-conduct.md:40
 msgid "Part 2.1 Expected behaviour"
@@ -176,7 +183,10 @@ msgid ""
 "regardless of platform: either online or in-person. In order to foster a "
 "positive and professional learning environment we encourage the following"
 " kinds of behaviours in all Carpentries events and platforms:"
-msgstr "私たちのイベントやコミュニケーションのすべての参加者は、他の人に敬意と礼儀を示すことが求められます。 すべてのやり取りは、プラットフォームに関係なく、オンラインまたは対面でプロフェッショナルである必要があります。 ポジティブでプロフェッショナルな学習環境を育むために、カーペントリーズのすべてのイベントとプラットフォームで次のような行動をとることをお勧めします。"
+msgstr ""
+"私たちのイベントやコミュニケーションのすべての参加者は、他の人に敬意と礼儀を示すことが求められます。 "
+"すべてのやり取りは、プラットフォームに関係なく、オンラインまたは対面でプロフェッショナルである必要があります。 "
+"ポジティブでプロフェッショナルな学習環境を育むために、カーペントリーズのすべてのイベントとプラットフォームで次のような行動をとることをお勧めします。"
 
 #: ../../topic_folders/policies/code-of-conduct.md:50
 msgid "Note: See the four social rules for further recommendations."
@@ -263,7 +273,11 @@ msgid ""
 " offender, ask them to leave the event or platform (without refund), or "
 "engage The Carpentries Code of Conduct Committee to investigate the Code "
 "of Conduct violation and impose appropriate sanctions."
-msgstr "不適切な行動をやめるよう要求された参加者は、直ちに従うことが求められます。 これは、オンラインまたは対面でのすべてのカーペントリーズのイベントおよびプラットフォームに適用されます。 参加者がこの行動規範に違反する行動をとった場合、主催者は違反者に警告するか、イベントまたはプラットフォームを離れるように依頼するか (返金は行われません)、またカーペントリーズの行動規範委員会に行動規範違反を調査し、適切な制裁を課すように手配する可能性があります。"
+msgstr ""
+"不適切な行動をやめるよう要求された参加者は、直ちに従うことが求められます。 "
+"これは、オンラインまたは対面でのすべてのカーペントリーズのイベントおよびプラットフォームに適用されます。 "
+"参加者がこの行動規範に違反する行動をとった場合、主催者は違反者に警告するか、イベントまたはプラットフォームを離れるように依頼するか "
+"(返金は行われません)、またカーペントリーズの行動規範委員会に行動規範違反を調査し、適切な制裁を課すように手配する可能性があります。"
 
 #: ../../topic_folders/policies/code-of-conduct.md:74
 msgid "Update Logs"
@@ -352,6 +366,6 @@ msgid ""
 "Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
 msgstr ""
 
-#: topic_folders/policies/code-of-conduct.md:94
-msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
-msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+#~ msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+#~ msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+

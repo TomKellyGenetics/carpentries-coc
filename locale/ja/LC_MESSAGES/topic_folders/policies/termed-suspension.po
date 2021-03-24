@@ -377,6 +377,6 @@ msgid ""
 "suspension."
 msgstr ""
 
-#: topic_folders/policies/termed-suspension.md:92
-msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
-msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+#~ msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+#~ msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+
