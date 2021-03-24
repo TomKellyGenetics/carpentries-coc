@@ -46,8 +46,8 @@ msgstr ""
 " `ソフトウィーアカーペントリ <https://software-carpentry.org/>`_ とか `データカーペントリ "
 "<https://datacarpentry.org/>`_ とか `ライブラリーカーペントリ "
 "<https://librarycarpentry.org/>`_　のレッスンを使ってワークショップがあります。 "
-"ワークショップの主催者、インストラクター、学習者は、 `行動規範<https://docs.carpentries.org/topic_folders/policies"
-"/code-of-conduct.html>`_ に従う準備をする必要があります。"
+"ワークショップの主催者、インストラクター、学習者は、 "
+"`行動規範 <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_ に従う準備をする必要があります。"
 
 #: ../../index.rst:14
 msgid ""

@@ -517,9 +517,9 @@ msgid "For more information please review our:\n"
 "- [Incident Response Procedure](enforcement-guidelines.md)\n"
 "- [Termed Suspension Guidelines](termed-suspension.md)"
 msgstr "詳細については、以下を確認してください。(訳注: 下記リンクはまだ日本語翻訳できていません。):\n"
-"- [Incident Response Guidelines](incident-response.md)\n"
-"- [Incident Reporting Guidelines](incident-reporting.md)\n"
-"- [Incident Response Procedure](enforcement-guidelines.md)\n"
+"- [インシデント対応ガイドライン](incident-response.md)\n"
+"- [インシデント対応ガイドライン](incident-reporting.md)\n"
+"- [インシデント対応業務](enforcement-guidelines.md)\n"
 "- [Termed Suspension Guidelines](termed-suspension.md)"
 
 #: topic_folders/policies/code-of-conduct.md:13

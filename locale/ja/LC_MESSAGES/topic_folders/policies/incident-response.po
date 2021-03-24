@@ -24,8 +24,8 @@ msgid "Code of Conduct Incident Response Guidelines"
 msgstr "行動規範インシデント対応ガイドライン"
 
 #: ../../topic_folders/policies/incident-response.md:3
-msgid "Information on how to report a Code of Conduct \(CoC\) incident is outlined in our \[Code of Conduct Incident Reporting Guidelines\]\(incident-reporting.md\)."
-msgstr "行動規範インシデントの報告方法に関する情報は、[行動規範インシデント報告ガイドライン](incident-reporting.md)にまとめられています。"
+msgid "Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md)."
+msgstr "行動規範インシデントの報告方法に関する情報は、[行動規範インシデント報告ガイドライン](https://carpentries-coc.readthedocs.io/ja/prerelease/topic_folders/policies/incident-reporting.html)にまとめられています。"
 
 #: ../../topic_folders/policies/incident-response.md:5
 msgid "The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. "

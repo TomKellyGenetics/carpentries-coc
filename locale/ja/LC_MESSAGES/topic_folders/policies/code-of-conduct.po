@@ -38,15 +38,15 @@ msgstr "詳細については、以下を確認してください。(訳注: 下
 
 #: ../../topic_folders/policies/code-of-conduct.md:8
 msgid "Incident Response Guidelines"
-msgstr "Incident Response Guidelines"
+msgstr "インシデント対応ガイドライン"
 
 #: ../../topic_folders/policies/code-of-conduct.md:9
 msgid "Incident Reporting Guidelines"
-msgstr "Incident Reporting Guidelines"
+msgstr "インシデント報告ガイドライン"
 
 #: ../../topic_folders/policies/code-of-conduct.md:10
 msgid "Incident Response Procedure"
-msgstr "Incident Response Procedure"
+msgstr "インシデント対応業務"
 
 #: ../../topic_folders/policies/code-of-conduct.md:11
 msgid "Termed Suspension Guidelines"
