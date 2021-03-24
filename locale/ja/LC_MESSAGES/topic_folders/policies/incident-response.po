@@ -90,16 +90,16 @@ msgstr "**対面イベントチェックリスト (カーペントリーズの�
 "* 参加者の安全を確保します。\n"
 "* そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\n"
 "* レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
-"* [行動規範インシデントレポートフォーム][reporting-form]を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
-"* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム][reporting-form]を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
+"* [行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
+"* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #: topic_folders/policies/incident-response.md:36
 msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\n"
 "* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \n"
 "* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
 msgstr "**オンラインイベントとコミュニケーションチャネルのチェックリスト (ティーチングデモ、コミュニティの議論、カーペントリーズのインストラクターのトレーニング、Slackチャンネル、TopicBox)**\n"
-"* イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム][reporting-form]を介してレポートを送信します。\n"
-"* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム][reporting-form]に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
+"* イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。\n"
+"* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
 
 #: topic_folders/policies/incident-response.md:40
 msgid "If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident."

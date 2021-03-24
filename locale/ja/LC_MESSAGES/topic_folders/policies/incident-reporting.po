@@ -35,11 +35,11 @@ msgstr "カーペントリーズのワークショップ、対面イベント、
 
 #: topic_folders/policies/incident-reporting.md:7
 msgid "If you believe someone violated the [Code of Conduct](../policies/code-of-conduct.md) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information. "
-msgstr "カーペントリーズのイベント中またはカーペントリーズのオンラインスペースで誰かが[行動規範](../policies/code-of-conduct.md)に違反したと思われる場合は、報告してください。インシデントがカーペントリーズの管理下にある場所で起こったかどうかわからない場合でも、インシデントを報告するようお願いします。[行動規範インシデントレポートフォーム][reporting-form]の全ての項目に記入し、レポートを提出することをお勧めします。フォームは匿名で記入することも、連絡先情報を含めることもできます。"
+msgstr "カーペントリーズのイベント中またはカーペントリーズのオンラインスペースで誰かが[行動規範](../policies/code-of-conduct.md)に違反したと思われる場合は、報告してください。インシデントがカーペントリーズの管理下にある場所で起こったかどうかわからない場合でも、インシデントを報告するようお願いします。[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)の全ての項目に記入し、レポートを提出することをお勧めします。フォームは匿名で記入することも、連絡先情報を含めることもできます。"
 
 #: topic_folders/policies/incident-reporting.md:9
 msgid "__[Submit a Code of Conduct Incident Report][reporting-form]__"
-msgstr "__[行動規範インシデントレポートを提出する][reporting-form]__"
+msgstr "__[行動規範インシデントレポートを提出する](https://goo.gl/forms/KoUfO53Za3apOuOK2)__"
 
 #: topic_folders/policies/incident-reporting.md:11
 msgid "The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.md).  A report guarantees review, but not necessarily that an action will be taken."
@@ -103,7 +103,7 @@ msgstr "レポーターのフォローアップ"
 
 #: topic_folders/policies/incident-reporting.md:40
 msgid "Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.md)."
-msgstr "[行動規範インシデントレポートフォーム][reporting-form]またはその他のコミュニケーションチャンネルを通じてレポートが提出されると、行動規範委員会が[施行ガイドライン](enforcement-guidelines.md)の手順に従ってレビューとフォローアップを行います。"
+msgstr "[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)またはその他のコミュニケーションチャンネルを通じてレポートが提出されると、行動規範委員会が[施行ガイドライン](enforcement-guidelines.md)の手順に従ってレビューとフォローアップを行います。"
 
 #: topic_folders/policies/incident-reporting.md:43
 msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
