@@ -123,3 +123,7 @@ msgstr "- 報告された人を安心させたり許したりするのはあな�
 # unordered list
 msgid "- Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter."
 msgstr "- 報告された人がレポーターまたは影響を受けた人に謝罪することを許可しないでください。多くの場合、謝罪は、影響を受けた人ではなく、報告された人の感情を中心にしています。あなたはその謝罪を受け入れてそれを伝えても構いませんが、それがレポーター（被害者）に悪影響を与えると思うならあなたはそうする必要はありません。"
+
+#: topic_folders/policies/incident-response.md:49
+msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"

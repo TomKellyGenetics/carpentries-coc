@@ -352,3 +352,6 @@ msgid ""
 "Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
 msgstr ""
 
+#: topic_folders/policies/code-of-conduct.md:94
+msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
