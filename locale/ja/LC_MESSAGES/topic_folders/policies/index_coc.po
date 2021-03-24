@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../topic_folders/policies/index_coc.rst:2
 msgid "CODE OF CONDUCT"
-msgstr ""
+msgstr "カーペントリーズの行動規範"
 

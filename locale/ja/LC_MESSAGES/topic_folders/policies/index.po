@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../topic_folders/policies/index.rst:2
 msgid "POLICIES"
-msgstr ""
+msgstr "方針"
 
