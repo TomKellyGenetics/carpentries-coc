@@ -1319,11 +1319,11 @@ msgid "Information on how to report a Code of Conduct (CoC) incident is outlined
 msgstr "行動規範インシデントの報告方法に関する情報は、[行動規範インシデント報告ガイドライン](incident-reporting.md)にまとめられています。"
 
 #: topic_folders/policies/incident-response.md:5
-msgid "The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. "
+msgid "The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident."
 msgstr "以下のチェックリストは、行動規範委員会に報告する__前__に、行動規範インシデントの可能性をはらんでいる間にコミュニティメンバー (ワークショップの主催者、[インストラクター](https://carpentries.org/instructors/)、ヘルパーなど）が実行できる手順の概要を示しています。行動規範を気兼ねなく実施するほど経験があったりやトレーニングを受けているわけでもなく、困難な状況に遭遇することもあるかもしれません。これらのガイドラインは、インシデント中に他のコミュニティメンバーとあなた自身を支援するのに役立つことを目的としています。"
 
 #: topic_folders/policies/incident-response.md:7
-msgid "All Carpentries community members should feel empowered to enforce the Code of Conduct. "
+msgid "All Carpentries community members should feel empowered to enforce the Code of Conduct."
 msgstr "すべてのカーペントリーズのコミュニティメンバーは、行動規範を実施する権限があり、必要だと判断したら、気兼ねなく実施できることになっています。"
 
 #: topic_folders/policies/incident-response.md:9
@@ -1340,7 +1340,7 @@ msgid "##### Immediate Response "
 msgstr "早急な応答"
 
 #: topic_folders/policies/incident-response.md:15
-msgid "The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  "
+msgid "The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources."
 msgstr "インシデントへの最初の対応は非常に重要であり、カーペントリーズコミュニティの基調を定めます。インシデントの重大度や詳細によっては、迅速な対応が必要になる場合があります。インシデントが物理的な危険を伴う場合、または誰かの安全に対する脅威 (例えば、暴力の脅威) を伴う場合、コミュニティメンバーは、安全を守るために直ちに行動して差し支えありません -- そしてそうすべきです --。これには、緊急または危機の際の頼みとなる援助への連絡が含まれる場合があります。"
 
 #: topic_folders/policies/incident-response.md:17
