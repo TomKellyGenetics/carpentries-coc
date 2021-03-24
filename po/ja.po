@@ -688,11 +688,6 @@ msgstr "パート 2.3 容認できない行動の結果"
 msgid "Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions."
 msgstr "不適切な行動をやめるよう要求された参加者は、直ちに従うことが求められます。 これは、オンラインまたは対面でのすべてのカーペントリーズのイベントおよびプラットフォームに適用されます。 参加者がこの行動規範に違反する行動をとった場合、主催者は違反者に警告するか、イベントまたはプラットフォームを離れるように依頼するか (返金は行われません)、またカーペントリーズの行動規範委員会に行動規範違反を調査し、適切な制裁を課すように手配する可能性があります。"
 
-#: topic_folders/policies/incident-reporting.md:1
-# header
-msgid "### Code of Conduct Incident Reporting Guidelines"
-msgstr "行動規範インシデント報告ガイドライン"
-
 #: topic_folders/policies/code-of-conduct.md:74
 # header
 msgid "#### Update Logs"
@@ -745,6 +740,11 @@ msgstr ""
 #: topic_folders/policies/termed-suspension.md:92
 msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
 msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:1
+# header
+msgid "### Code of Conduct Incident Reporting Guidelines"
+msgstr "行動規範インシデント報告ガイドライン"
 
 #: topic_folders/policies/core-team/professional-development-policy.md:1
 # header
