@@ -5,7 +5,6 @@
 # Handbook package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: The Carpentries Handbook \n"

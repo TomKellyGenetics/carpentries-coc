@@ -5,7 +5,6 @@
 # Handbook package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: The Carpentries Handbook \n"
@@ -21,12 +20,10 @@ msgstr ""
 
 # header
 #: ../../topic_folders/policies/incident-response.md:1
-#, fuzzy
 msgid "Code of Conduct Incident Response Guidelines"
 msgstr "行動規範インシデント対応ガイドライン"
 
 #: ../../topic_folders/policies/incident-response.md:3
-#, fuzzy
 msgid ""
 "Information on how to report a Code of Conduct (CoC) incident is outlined"
 " in our Code of Conduct Incident Reporting Guidelines."
@@ -35,7 +32,6 @@ msgstr ""
 "reporting.md)にまとめられています。"
 
 #: ../../topic_folders/policies/incident-response.md:5
-#, fuzzy
 msgid ""
 "The checklists below outline the steps any community member (workshop "
 "host, instructor, helper, etc.) can take during a potential Code of "
@@ -49,7 +45,6 @@ msgstr ""
 "(ワークショップの主催者、[インストラクター](https://carpentries.org/instructors/)、ヘルパーなど）が実行できる手順の概要を示しています。行動規範を気兼ねなく実施するほど経験があったりやトレーニングを受けているわけでもなく、困難な状況に遭遇することもあるかもしれません。これらのガイドラインは、インシデント中に他のコミュニティメンバーとあなた自身を支援するのに役立つことを目的としています。"
 
 #: ../../topic_folders/policies/incident-response.md:7
-#, fuzzy
 msgid ""
 "All Carpentries community members should feel empowered to enforce the "
 "Code of Conduct."
@@ -64,7 +59,6 @@ msgid ""
 msgstr "理想的には、どんな場合でも私たち全員がインシデントを静めることができます。しかし、実際には、各自の経験とインシデントが起こった環境によって、取れる対策が変わることがあります。以下は、あなたが被害者を支援できる方法と、インシデントの最中または直後にあなたが取れるインシデントに対する手段です。"
 
 #: ../../topic_folders/policies/incident-response.md:11
-#, fuzzy
 msgid ""
 "If you can, move from being a bystander to being a Code of Conduct first "
 "responder. If you see something inappropriate happening, speak up. If you"
@@ -75,12 +69,10 @@ msgstr "可能であれば、第三者から観察しているのではなく、
 
 # header
 #: ../../topic_folders/policies/incident-response.md:13
-#, fuzzy
 msgid "Immediate Response"
 msgstr "早急な応答"
 
 #: ../../topic_folders/policies/incident-response.md:15
-#, fuzzy
 msgid ""
 "The initial response to an incident is very important and will set the "
 "tone for The Carpentries community. Depending on the severity and/or "
@@ -96,12 +88,10 @@ msgstr ""
 
 # header
 #: ../../topic_folders/policies/incident-response.md:17
-#, fuzzy
 msgid "Ongoing Incidents"
 msgstr "インシデントの進行中"
 
 #: ../../topic_folders/policies/incident-response.md:19
-#, fuzzy
 msgid ""
 "If an incident is ongoing, whether in-person or online, any community "
 "member (workshop host, instructor, helper) may act immediately and employ"
@@ -117,13 +107,11 @@ msgstr ""
 
 # header
 #: ../../topic_folders/policies/incident-response.md:21
-#, fuzzy
 msgid "Checklists for Responding to an Incident"
 msgstr "インシデントに対応するためのチェックリスト"
 
 # header
 #: ../../topic_folders/policies/incident-response.md:23
-#, fuzzy
 msgid "Immediate Response Checklist"
 msgstr "早急な応答"
 
@@ -224,7 +212,6 @@ msgstr "報告された人は、しばしば動揺したり、自己防衛した
 
 # unordered list
 #: ../../topic_folders/policies/incident-response.md:44
-#, fuzzy
 msgid ""
 "It does not matter if they did not intend to hurt anyone; their behaviour"
 " still impacted participants negatively."
@@ -232,13 +219,11 @@ msgstr "- 誰かを傷つけるつもりがなかったかどうかは関係あ�
 
 # unordered list
 #: ../../topic_folders/policies/incident-response.md:45
-#, fuzzy
 msgid "It is not your job to reassure or forgive them."
 msgstr "- 報告された人を安心させたり許したりするのはあなたの仕事ではありません。"
 
 # unordered list
 #: ../../topic_folders/policies/incident-response.md:46
-#, fuzzy
 msgid ""
 "Do not allow the reported person to make an apology to the reporter or "
 "impacted person. Often an apology centers the reported person’s feelings "
