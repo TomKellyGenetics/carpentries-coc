@@ -33,24 +33,16 @@ msgid ""
 msgstr "以下は、カーペントリーズの行動規範の要約です。 行動規範の詳細は、下記をお読みください。"
 
 #: ../../topic_folders/policies/code-of-conduct.md:7
-msgid "For more information please review our:"
-msgstr "詳細については、以下を確認してください。(訳注: 下記リンクはまだ日本語翻訳できていません。)"
-
-#: ../../topic_folders/policies/code-of-conduct.md:8
-msgid "Incident Response Guidelines"
-msgstr "インシデント対応ガイドライン"
-
-#: ../../topic_folders/policies/code-of-conduct.md:9
-msgid "Incident Reporting Guidelines"
-msgstr "インシデント報告ガイドライン"
-
-#: ../../topic_folders/policies/code-of-conduct.md:10
-msgid "Incident Response Procedure"
-msgstr "インシデント対応業務"
-
-#: ../../topic_folders/policies/code-of-conduct.md:11
-msgid "Termed Suspension Guidelines"
-msgstr "Termed Suspension Guidelines"
+msgid "For more information please review our:\n"
+"- [Incident Response Guidelines](incident-response.md)\n"
+"- [Incident Reporting Guidelines](incident-reporting.md)\n"
+"- [Incident Response Procedure](enforcement-guidelines.md)\n"
+"- [Termed Suspension Guidelines](termed-suspension.md)"
+msgstr "詳細については、以下を確認してください。(訳注: 下記リンクはまだ日本語翻訳できていません。):\n"
+"- [インシデント対応ガイドライン](incident-response.md)\n"
+"- [インシデント対応ガイドライン](incident-reporting.md)\n"
+"- [インシデント対応業務](enforcement-guidelines.md)\n"
+"- [Termed Suspension Guidelines](termed-suspension.md)"
 
 #: ../../topic_folders/policies/code-of-conduct.md:13
 msgid ""
