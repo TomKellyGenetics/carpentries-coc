@@ -50,7 +50,7 @@ msgstr "<a href=\"enforcement-guidelines.md\">インシデント対応業務</a>
 
 #: ../../topic_folders/policies/code-of-conduct.md:11
 msgid "Termed Suspension Guidelines"
-msgstr "[Termed Suspension Guidelines](termed-suspension.md)"
+msgstr "[一時停止ガイドライン](termed-suspension.md)"
 
 #: ../../topic_folders/policies/code-of-conduct.md:13
 msgid ""
