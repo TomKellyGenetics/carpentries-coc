@@ -5,15 +5,15 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: carpentries-coc\b"
-"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\b"
-"POT-Creation-Date: 2021-03-04 16:59:04+0900\b"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\b"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\b"
-"Language-Team: LANGUAGE <LL@li.org>\b"
-"MIME-Version: 1.0\b"
-"Content-Type: text/plain; charset=UTF-8\b"
-"Content-Transfer-Encoding: 8bit\b"
+"Project-Id-Version: carpentries-coc\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2021-03-04 16:59:04+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 #: topic_folders/policies/coc-governance.md:1
 # header
@@ -26,9 +26,9 @@ msgid "## Membership"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:5
-msgid "Any voting member of the Carpentries community, as defined in The Carpentries bylaws, may express their interest to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/) (the Committee). \b"
-"The Committee will onboard its members on a yearly basis through open calls and from available volunteers. \b"
-"The Executive Council (EC) will be notified about any new members. \b"
+msgid "Any voting member of the Carpentries community, as defined in The Carpentries bylaws, may express their interest to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/) (the Committee). \n"
+"The Committee will onboard its members on a yearly basis through open calls and from available volunteers. \n"
+"The Executive Council (EC) will be notified about any new members. \n"
 "New members will undergo an application and onboarding process before they are officially seated on the Committee."
 msgstr ""
 
@@ -38,13 +38,13 @@ msgid "## Onboarding and training"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:12
-msgid "The onboarding process is determined by the Committee, and the EC will be notified about this process.\b"
+msgid "The onboarding process is determined by the Committee, and the EC will be notified about this process.\n"
 "New members are not immediately seated on the Committee, and thus not included in issue resolution, until after onboarding is completed. "
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:15
-msgid "The current onboarding process involves reading assignments in [The Carpentries Code of Conduct documents](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and selected chapters from [How to respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf)\b"
-"(by Valerie Aurora, based on a short guide written by Mary Gardiner). \b"
+msgid "The current onboarding process involves reading assignments in [The Carpentries Code of Conduct documents](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and selected chapters from [How to respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf)\n"
+"(by Valerie Aurora, based on a short guide written by Mary Gardiner). \n"
 "Additionally, incident response training will be organised for the new and existing members to ensure they can confidently serve on the committee."
 msgstr ""
 
@@ -54,14 +54,14 @@ msgid "## Administration"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:21
-msgid "The Committee consists of a minimum of five members; approximately 10 is recommended. \b"
-"The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC. \b"
-"The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups. \b"
+msgid "The Committee consists of a minimum of five members; approximately 10 is recommended. \n"
+"The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC. \n"
+"The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups. \n"
 "They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee."
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:26
-msgid "The Committee has two chairs - a Governance Chair and an Incident Response Chair. \b"
+msgid "The Committee has two chairs - a Governance Chair and an Incident Response Chair. \n"
 "These individuals are responsible for guiding the Committee’s work. "
 msgstr ""
 
@@ -80,8 +80,8 @@ msgid "### Non-incident voting"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:35
-msgid "For non-incident related matters, the Committee passes votes with a simple majority of the non-liaison members, with the Governance Chair breaking any ties. \b"
-"The Carpentries Core Team and Executive Council liaisons do not vote on motions, but are welcome to provide feedback and insight.  \b"
+msgid "For non-incident related matters, the Committee passes votes with a simple majority of the non-liaison members, with the Governance Chair breaking any ties. \n"
+"The Carpentries Core Team and Executive Council liaisons do not vote on motions, but are welcome to provide feedback and insight.  \n"
 "Quorum in meetings is more than 50% of the non-liaison CoCc members. "
 msgstr ""
 
@@ -91,7 +91,7 @@ msgid "### Incident voting"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:41
-msgid "For incident related matters, the liaisons to the CoCc will abstain from voting, unless their vote is needed to ensure that an incident or other need can be responded to in a timely manner according to the [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html). \b"
+msgid "For incident related matters, the liaisons to the CoCc will abstain from voting, unless their vote is needed to ensure that an incident or other need can be responded to in a timely manner according to the [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html). \n"
 "The Incidence Response Lead of the [Incident Response group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that a liaison vote will be necessary to resolve the incident."
 msgstr ""
 
@@ -105,15 +105,15 @@ msgid "## Terms of office"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:48
-msgid "The expected term of office for each Committee member is one to three years, however, members may remain longer if continuity of the Committee is a concern. \b"
-"During their time on the Committee, members may temporarily withdraw from Committee work for up to 3 months provided they inform the Governance Chair in writing. \b"
-"If the members are unavailable for longer than 3 months, they will be asked to take a leave from the Committee. \b"
-"They may volunteer to rejoin when they are available again following the onboarding procedure described earlier in the document. \b"
+msgid "The expected term of office for each Committee member is one to three years, however, members may remain longer if continuity of the Committee is a concern. \n"
+"During their time on the Committee, members may temporarily withdraw from Committee work for up to 3 months provided they inform the Governance Chair in writing. \n"
+"If the members are unavailable for longer than 3 months, they will be asked to take a leave from the Committee. \n"
+"They may volunteer to rejoin when they are available again following the onboarding procedure described earlier in the document. \n"
 "This will allow us to maintain privacy for the reports that will be handled in their absence and create an opportunity for new members to join the Committee."
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:54
-msgid "The Chairs are expected to sit for approximately one year. \b"
+msgid "The Chairs are expected to sit for approximately one year. \n"
 "New Chairs are selected from among those who have been on the Committee for at least one year. One of the available members can volunteer to be elected to take on the role of a Chair. "
 msgstr ""
 
@@ -123,7 +123,7 @@ msgid "## Main duties of the position holders"
 msgstr ""
 
 #: topic_folders/policies/coc-governance.md:59
-msgid "All members of the CoCc must read, understand and abide by the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html#). \b"
+msgid "All members of the CoCc must read, understand and abide by the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html#). \n"
 "In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below."
 msgstr ""
 
@@ -418,8 +418,8 @@ msgid "A conflict of interest is a situation where a member of the CoCc could be
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:40
-msgid "If any member of the committee happens to face a conflict of interest while handling a case, they are  expected to:\b"
-"* inform the chair of the CoCc and/or the full committee of the conflict of interest, \b"
+msgid "If any member of the committee happens to face a conflict of interest while handling a case, they are  expected to:\n"
+"* inform the chair of the CoCc and/or the full committee of the conflict of interest, \n"
 "* not be involved in the case, and if required, temporarily leave their position as a CoCc member to avoid any bias."
 msgstr ""
 
@@ -511,15 +511,15 @@ msgid "Below is a summary of The Carpentries Code of Conduct. Continue reading f
 msgstr "以下は、カーペントリーズの行動規範の要約です。 行動規範の詳細は、下記をお読みください"
 
 #: topic_folders/policies/code-of-conduct.md:7
-msgid "For more information please review our:\b"
-"- [Incident Response Guidelines](incident-response.md)\b"
-"- [Incident Reporting Guidelines](incident-reporting.md)\b"
-"- [Incident Response Procedure](enforcement-guidelines.md)\b"
+msgid "For more information please review our:\n"
+"- [Incident Response Guidelines](incident-response.md)\n"
+"- [Incident Reporting Guidelines](incident-reporting.md)\n"
+"- [Incident Response Procedure](enforcement-guidelines.md)\n"
 "- [Termed Suspension Guidelines](termed-suspension.md)"
-msgstr "詳細については、以下を確認してください。(訳注: 下記リンクはまだ日本語翻訳できていません。):\b"
-"- [インシデント対応ガイドライン](incident-response.md)\b"
-"- [インシデント対応ガイドライン](incident-reporting.md)\b"
-"- [インシデント対応業務](enforcement-guidelines.md)\b"
+msgstr "詳細については、以下を確認してください。(訳注: 下記リンクはまだ日本語翻訳できていません。):\n"
+"- [インシデント対応ガイドライン](incident-response.md)\n"
+"- [インシデント対応ガイドライン](incident-reporting.md)\n"
+"- [インシデント対応業務](enforcement-guidelines.md)\n"
 "- [Termed Suspension Guidelines](termed-suspension.md)"
 
 #: topic_folders/policies/code-of-conduct.md:13
@@ -578,7 +578,7 @@ msgid "To make clear what is expected, everyone participating in The Carpentries
 msgstr "何が求められているかを明確にするために、カーペントリーズの活動に参加するすべての人は、行動規範に準拠する必要があります。この行動規範は、ワークショップ、メーリングリスト、GitHub、Slack、Twitterなどのオンラインフォーラムを含む(しかしこれらに限定されない)カーペントリーズが管理するすべてのスペースに適用されます。ワークショップの主催者は、行動規範の施行を支援することが求められます。"
 
 #: topic_folders/policies/code-of-conduct.md:31
-msgid "The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). \b"
+msgid "The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). \n"
 "All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. "
 msgstr "カーペントリーズの[行動規範委員会](https://carpentries.org/coc-ctte/)は、行動規範を施行する責任があります。委員会には [coc@carpentries.org](mailto:coc@carpentries.org) に電子メールを送ることで連絡できます。すべての報告は行動規範委員会によってレビューされ、機密が保持されます。"
 
@@ -728,7 +728,7 @@ msgid "#### About this Document"
 msgstr ""
 
 #: topic_folders/policies/code-of-conduct.md:90
-msgid "This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to the the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))\b"
+msgid "This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to the the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))\n"
 "In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. In 2019, an appeal process, the procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, expanded clauses for conflicts of interest, and committee membership agreement were included. Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
 msgstr ""
 
@@ -1183,9 +1183,9 @@ msgid "Any individual(s) involved in a Code of Conduct report handled by CoC com
 msgstr ""
 
 #: topic_folders/policies/enforcement-guidelines.md:111
-msgid "The email should include documentation related to the incident to support the appeal. The said documentation may include, but does not have to be limited to:\b"
-"- Information from the reportee justifying reasoning for the appeal.\b"
-"- Letters of support from community members.\b"
+msgid "The email should include documentation related to the incident to support the appeal. The said documentation may include, but does not have to be limited to:\n"
+"- Information from the reportee justifying reasoning for the appeal.\n"
+"- Letters of support from community members.\n"
 "- Statements from other individuals involved in the incident to support the appeal."
 msgstr ""
 
@@ -1358,37 +1358,37 @@ msgid "##### Checklists for Responding to an Incident"
 msgstr "インシデントに対応するためのチェックリスト"
 
 #: topic_folders/policies/incident-response.md:23
-msgid "**Immediate Response Checklist**\b"
-"* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.\b"
-"* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.\b"
-"* If individuals are physically safe, contact law enforcement or security only at the reporter’s request.\b"
+msgid "**Immediate Response Checklist**\n"
+"* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.\n"
+"* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.\n"
+"* If individuals are physically safe, contact law enforcement or security only at the reporter’s request.\n"
 "* Follow any local guidelines for handling incidents, including if you have a legal reporting role. "
-msgstr "**即時対応チェックリスト**\b"
-"* インシデントに即座に対応するために、ファーストレスポンダー (法執行機関など) が必要かどうかを見積ります。もし必要そうなら、レポーター（被害者）にあなたと一緒にいて、適切な緊急応答番号に電話をかけるように頼んでください。\b"
-"* 参加者の安全に対する一般的な脅威がある場合は、世間に認められた緊急対応番号に連絡してください。\b"
-"* 個人が身体的に安全である場合は、レポーター（被害者）の要求があった場合にのみ法執行機関または警備員に連絡してください。\b"
+msgstr "**即時対応チェックリスト**\n"
+"* インシデントに即座に対応するために、ファーストレスポンダー (法執行機関など) が必要かどうかを見積ります。もし必要そうなら、レポーター（被害者）にあなたと一緒にいて、適切な緊急応答番号に電話をかけるように頼んでください。\n"
+"* 参加者の安全に対する一般的な脅威がある場合は、世間に認められた緊急対応番号に連絡してください。\n"
+"* 個人が身体的に安全である場合は、レポーター（被害者）の要求があった場合にのみ法執行機関または警備員に連絡してください。\n"
 "* インシデントを報告する法的義務があるかどうかを含めて、インシデントの処理に関する地域のガイドラインに従ってください。"
 
 #: topic_folders/policies/incident-response.md:29
-msgid "**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**\b"
-"* Ensure participants are safe.\b"
-"* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).\b"
-"* Listen to the reporter and write down as many details as possible.\b"
-"* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. \b"
+msgid "**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**\n"
+"* Ensure participants are safe.\n"
+"* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).\n"
+"* Listen to the reporter and write down as many details as possible.\n"
+"* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. \n"
 "* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
-msgstr "**対面イベントチェックリスト (カーペントリーズのワークショップ, CarpentryCon, CarpentryConnect, カーペントリーズのインストラクターのトレーニング)**\b"
-"* 参加者の安全を確保します。\b"
-"* そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\b"
-"* レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\b"
-"* [行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\b"
+msgstr "**対面イベントチェックリスト (カーペントリーズのワークショップ, CarpentryCon, CarpentryConnect, カーペントリーズのインストラクターのトレーニング)**\n"
+"* 参加者の安全を確保します。\n"
+"* そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\n"
+"* レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
+"* [行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
 "* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #: topic_folders/policies/incident-response.md:36
-msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\b"
-"* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \b"
+msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\n"
+"* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \n"
 "* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
-msgstr "**オンラインイベントとコミュニケーションチャネルのチェックリスト (ティーチングデモ、コミュニティの議論、カーペントリーズのインストラクターのトレーニング、Slackチャンネル、TopicBox)**\b"
-"* イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。\b"
+msgstr "**オンラインイベントとコミュニケーションチャネルのチェックリスト (ティーチングデモ、コミュニティの議論、カーペントリーズのインストラクターのトレーニング、Slackチャンネル、TopicBox)**\n"
+"* イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。\n"
 "* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
 
 #: topic_folders/policies/incident-response.md:40
@@ -1424,7 +1424,7 @@ msgid "*Effective date: 25 May 2018*"
 msgstr ""
 
 #: topic_folders/policies/privacy.md:5
-msgid "This Privacy Policy covers personally identifiable information that may be provided to The Carpentries, including data provided at in-person events (e.g., workshops and conferences) and online. Changes to this Privacy Policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.\b"
+msgid "This Privacy Policy covers personally identifiable information that may be provided to The Carpentries, including data provided at in-person events (e.g., workshops and conferences) and online. Changes to this Privacy Policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.\n"
 "Information obtained and how it is used is described in sections below for"
 msgstr ""
 
@@ -1546,7 +1546,7 @@ msgid "#### How is this information used?"
 msgstr ""
 
 #: topic_folders/policies/privacy.md:42
-msgid "We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants publicly or with volunteers, partners or third parties, including but not limited to funding entities.\b"
+msgid "We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants publicly or with volunteers, partners or third parties, including but not limited to funding entities.\n"
 "See [Section 6: All Participants](#section-6-all-participants) for further information."
 msgstr ""
 
@@ -1564,7 +1564,7 @@ msgid "We may obtain the name and email address of participants at instructor tr
 msgstr ""
 
 #: topic_folders/policies/privacy.md:53
-msgid "We use this information to communicate with Instructors, including for instructor training events, training completion materials, communication about the organisation, and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding instructors publicly or with volunteers, partners or third parties, including but not limited to funding entities.\b"
+msgid "We use this information to communicate with Instructors, including for instructor training events, training completion materials, communication about the organisation, and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding instructors publicly or with volunteers, partners or third parties, including but not limited to funding entities.\n"
 "See [Section 6: All Participants](#section-6-all-participants) for further information."
 msgstr ""
 
@@ -1582,7 +1582,7 @@ msgid "We may obtain the name and email address of Other volunteers. If you choo
 msgstr ""
 
 #: topic_folders/policies/privacy.md:64
-msgid "We use this information to communicate with Other volunteers, including communication about the organisation and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding volunteers publicly or with other volunteers, partners or third parties, including but not limited to funding entities.\b"
+msgid "We use this information to communicate with Other volunteers, including communication about the organisation and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding volunteers publicly or with other volunteers, partners or third parties, including but not limited to funding entities.\n"
 "See [Section 6: All Participants](#section-6-all-participants) for further information."
 msgstr ""
 
@@ -1596,8 +1596,8 @@ msgid "This Privacy Policy is applicable to information that you provided/collec
 msgstr ""
 
 #: topic_folders/policies/privacy.md:71
-msgid "We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.\b"
-"In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.\b"
+msgid "We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.\n"
+"In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.\n"
 "If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our Core Team or authorised administrators and to the Core Team of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems."
 msgstr ""
 
@@ -1608,7 +1608,7 @@ msgid "#### What do we do with this information?"
 msgstr ""
 
 #: topic_folders/policies/privacy.md:76
-msgid "We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding visitors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.\b"
+msgid "We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding visitors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.\n"
 "See [Section 6: All Participants](#section-6-all-participants) for further information."
 msgstr ""
 
@@ -1622,12 +1622,12 @@ msgid "Community and workshop participants are invited to participate in a varie
 msgstr ""
 
 #: topic_folders/policies/privacy.md:83
-msgid "Opt-in surveys are entirely voluntary and information is not collected in a way that it is linked to personally identifiable responses without the respondent’s consent to self-identify.\b"
+msgid "Opt-in surveys are entirely voluntary and information is not collected in a way that it is linked to personally identifiable responses without the respondent’s consent to self-identify.\n"
 "Surveys collect information particular to the event or program being evaluated and optional information about the participant. Gender and ethnicity data, when collected, is only collected from participants in the United States."
 msgstr ""
 
 #: topic_folders/policies/privacy.md:87
-msgid "We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-identified responses.\b"
+msgid "We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-identified responses.\n"
 "See [Section 6: All Participants](#section-6-all-participants) for further information."
 msgstr ""
 
@@ -1660,7 +1660,7 @@ msgid "#### Limitations"
 msgstr ""
 
 #: topic_folders/policies/privacy.md:99
-msgid "Your privacy is very important to us. However, due to the existing legal and technical environment (e.g., third party interception of information), we cannot ensure that your personally identifiable information will not be disclosed to third parties in ways not described in this policy.\b"
+msgid "Your privacy is very important to us. However, due to the existing legal and technical environment (e.g., third party interception of information), we cannot ensure that your personally identifiable information will not be disclosed to third parties in ways not described in this policy.\n"
 "We may disclose information when we believe such disclosure is necessary to comply with the law; enforce our agreements, or protect the rights, property or safety of our users or others."
 msgstr ""
 
@@ -1714,27 +1714,27 @@ msgid "##### Online Communication and Communities"
 msgstr ""
 
 #: topic_folders/policies/termed-suspension.md:14
-msgid "Revoke access from the following communication channels and communities: \b"
-"- Email lists on [TopicBox](https://carpentries.topicbox.com/groups) \b"
-"- Email lists on Google Groups including but not limited to:\b"
-"  - Library Carpentry Governance Group\b"
-"  - Library Carpentry Maintainer Onboarding\b"
-"  - Code of Conduct Committee\b"
-"  - Carpentries Mentoring Groups \b"
-"- Twitter:\b"
-"    - [@datacarpentry](https://twitter.com/datacarpentry)\b"
-"    - [@swcarpentry](https://twitter.com/swcarpentry)\b"
-"    - [@libcarpentry](https://twitter.com/libcarpentry)\b"
-"    - [@thecarpentries](https://twitter.com/thecarpentries)\b"
-"- Blogs\b"
-"    - [Data Carpentry](https://datacarpentry.org/blog/)\b"
-"    - [Software Carpentry](https://software-carpentry.org/blog/)\b"
-"    - [Library Carpentry](https://librarycarpentry.org/blog/)\b"
-"    - [The Carpentries](https://carpentries.org/blog/)\b"
-"- GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)\b"
-"- Gitter - Library Carpentry Lobby\b"
-"- [Slack](https://swcarpentry.slack.com/messages)  \b"
-"- [Facebook](https://www.facebook.com/carpentries/) \b"
+msgid "Revoke access from the following communication channels and communities: \n"
+"- Email lists on [TopicBox](https://carpentries.topicbox.com/groups) \n"
+"- Email lists on Google Groups including but not limited to:\n"
+"  - Library Carpentry Governance Group\n"
+"  - Library Carpentry Maintainer Onboarding\n"
+"  - Code of Conduct Committee\n"
+"  - Carpentries Mentoring Groups \n"
+"- Twitter:\n"
+"    - [@datacarpentry](https://twitter.com/datacarpentry)\n"
+"    - [@swcarpentry](https://twitter.com/swcarpentry)\n"
+"    - [@libcarpentry](https://twitter.com/libcarpentry)\n"
+"    - [@thecarpentries](https://twitter.com/thecarpentries)\n"
+"- Blogs\n"
+"    - [Data Carpentry](https://datacarpentry.org/blog/)\n"
+"    - [Software Carpentry](https://software-carpentry.org/blog/)\n"
+"    - [Library Carpentry](https://librarycarpentry.org/blog/)\n"
+"    - [The Carpentries](https://carpentries.org/blog/)\n"
+"- GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)\n"
+"- Gitter - Library Carpentry Lobby\n"
+"- [Slack](https://swcarpentry.slack.com/messages)  \n"
+"- [Facebook](https://www.facebook.com/carpentries/) \n"
 "- [LinkedIn Carpentries](https://www.linkedin.com/company/the-carpentries/about/) and [LinkedIn Instructors](https://www.linkedin.com/groups/8279689/)"
 msgstr ""
 
@@ -1748,13 +1748,13 @@ msgid "##### Teaching Workshops"
 msgstr ""
 
 #: topic_folders/policies/termed-suspension.md:40
-msgid "The suspended member will, for the duration of their suspension:\b"
-"- Be asked not to sign up for workshops on the Instructor Spreadsheet.\b"
-"- Not be able to participate as a helper at any workshops.\b"
-"- Be removed from Eventbrite login access.\b"
-"- Not be allowed to plan self-organised workshops.\b"
-"- Not be allowed to request or host centrally coordinated workshops.\b"
-"- Not be listed as an instructor on the “Instructors” webpage.\b"
+msgid "The suspended member will, for the duration of their suspension:\n"
+"- Be asked not to sign up for workshops on the Instructor Spreadsheet.\n"
+"- Not be able to participate as a helper at any workshops.\n"
+"- Be removed from Eventbrite login access.\n"
+"- Not be allowed to plan self-organised workshops.\n"
+"- Not be allowed to request or host centrally coordinated workshops.\n"
+"- Not be listed as an instructor on the “Instructors” webpage.\n"
 "- Be removed from the instructors email list."
 msgstr ""
 
@@ -1764,14 +1764,14 @@ msgid "##### Organising Workshops "
 msgstr ""
 
 #: topic_folders/policies/termed-suspension.md:50
-msgid "If the suspended member is a Regional Coordinator or serves in another role whereby they organise workshops for The Carpentries, for the duration of their suspension they will not have access to:\b"
-"- LastPass\b"
-"- AMY\b"
-"- Regional Email\b"
-"- Asana\b"
-"- HelpScout\b"
-"- Zoom\b"
-"- Regional Coordinators Slack Channel\b"
+msgid "If the suspended member is a Regional Coordinator or serves in another role whereby they organise workshops for The Carpentries, for the duration of their suspension they will not have access to:\n"
+"- LastPass\n"
+"- AMY\n"
+"- Regional Email\n"
+"- Asana\n"
+"- HelpScout\n"
+"- Zoom\n"
+"- Regional Coordinators Slack Channel\n"
 "- Regional Coordinators Email List"
 msgstr ""
 
@@ -1781,12 +1781,12 @@ msgid "##### Instructor Training"
 msgstr ""
 
 #: topic_folders/policies/termed-suspension.md:61
-msgid "The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to: \b"
-"- Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed. \b"
-"- Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance. \b"
-"- Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension. \b"
-"- Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension. \b"
-"- Participate in review of applications for open instructor training or Trainer training. \b"
+msgid "The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to: \n"
+"- Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed. \n"
+"- Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance. \n"
+"- Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension. \n"
+"- Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension. \n"
+"- Participate in review of applications for open instructor training or Trainer training. \n"
 "Participate as a learner in instructor training."
 msgstr ""
 
