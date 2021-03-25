@@ -168,7 +168,7 @@ msgid ""
 "may include storage and processing of their personal information."
 msgstr ""
 "カーペントリーズの活動に参加するすべての人は、この行動規範に準拠する必要があります。この行動規範は、ワークショップ、メーリングリスト、GitHub、Slack、Twitterなどのオンラインフォーラムを含む(しかしこれらに限定されない)カーペントリーズが管理するすべてのスペースに適用されます。ワークショップの主催者は、行動規範の施行を支援することが求められます。"
-" "
+"\s"
 "参加者は、参加することにより、カーペントリーズが行動規範のインシデントを解決する手順に同意したことを示します。これには、個人情報の保存と処理が含まれる場合があります。"
 
 #: ../../topic_folders/policies/code-of-conduct.md:40
@@ -280,7 +280,7 @@ msgstr ""
 
 #: ../../topic_folders/policies/code-of-conduct.md:74
 msgid "Update Logs"
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:76
 msgid ""
@@ -292,7 +292,7 @@ msgid ""
 "the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Word,"
 " Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and"
 " Konrad Förstner (2019-2020)."
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:78
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 "reviewed and updated by the committee members Malvika Sharan, Karin "
 "Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman (February-"
 "April 2019)."
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:80
 msgid ""
@@ -312,7 +312,7 @@ msgid ""
 " checklist, and expanded clauses for conflicts of interest. Contributors:"
 " Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha "
 "Ahern, and Simon Waldman."
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:82
 msgid ""
@@ -320,14 +320,14 @@ msgid ""
 " both beneficial and unwanted behaviour. Also includes changes regarding "
 "evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin "
 "Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:84
 msgid ""
 "2018-09-11 Reporting guidelines revised to include alternate contact "
 "points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika"
 " Sharan, Samantha Ahern, and Simon Waldman."
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:86
 msgid ""
@@ -338,11 +338,11 @@ msgid ""
 "Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, "
 "Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, "
 "Simon Waldman, Tracy Teal."
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:88
 msgid "About this Document"
-msgstr " "
+msgstr "\s"
 
 #: ../../topic_folders/policies/code-of-conduct.md:90
 msgid ""
@@ -363,7 +363,7 @@ msgid ""
 " interest, and committee membership agreement were included. Contributors"
 " of these revised documents are Ethan White, Kari L. Jordan, Karin "
 "Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
-msgstr " "
+msgstr "\s"
 
 #~ msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
 #~ msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
