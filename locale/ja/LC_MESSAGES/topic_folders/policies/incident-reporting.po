@@ -48,7 +48,7 @@ msgid ""
 "your report by completing the Code of Conduct Incident Report Form. The "
 "form may be completed anonymously, or you may include your contact "
 "information."
-msgstr ""
+msgstr  "カーペントリーズのイベント中またはカーペントリーズのオンラインスペースで誰かが[行動規範](../policies/code-of-conduct.md)に違反したと思われる場合は、報告してください。インシデントがカーペントリーズの管理下にある場所で起こったかどうかわからない場合でも、インシデントを報告するようお願いします。[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)の全ての項目に記入し、レポートを提出することをお勧めします。フォームは匿名で記入することも、連絡先情報を含めることもできます。"
 
 #: ../../topic_folders/policies/incident-reporting.md:9
 msgid "Submit a Code of Conduct Incident Report"
@@ -60,7 +60,7 @@ msgid ""
 "will review all reports according to our Enforcement Guidelines.  A "
 "report guarantees review, but not necessarily that an action will be "
 "taken."
-msgstr ""
+msgstr "行動規範委員会は、すべてのインシデントレポートを真剣に受け止め、[施行ガイドライン](enforcement-guidelines.md)に従ってすべてのレポートをレビューします。レポートはレビューを保証しますが、必ずしも何らかのアクションが行われるわけではありません。"
 
 # header
 #: ../../topic_folders/policies/incident-reporting.md:13
@@ -74,7 +74,7 @@ msgid ""
 " If you are uncomfortable reporting to the Code of Conduct committee, "
 "incidents can also be reported to Cam Macdonell, the designated ombudsman"
 " for The Carpentries, at confidential@carpentries.org."
-msgstr ""
+msgstr "他の方法でお問い合わせをご希望の場合は、[coc@carpentries.org](mailto:coc@carpentries.org) 宛てのeメールがすべての[行動規範委員会](https://carpentries.org/coc-ctte)のメンバーの目に入るようになっています。行動規範委員会への報告に不安がある場合は、カーペントリーズの指定オンブズマンである Cam Macdonell に [confidential@carpentries.org](mailto:confidential@carpentries.org) でインシデントを報告することもできます。"
 
 #: ../../topic_folders/policies/incident-reporting.md:17
 msgid ""
@@ -113,7 +113,7 @@ msgid ""
 "cases, the Executive Council and Carpentries Core Team will be informed "
 "in order to prevent future harm to the community, and The Carpentries "
 "Core Team Immediate Response Checklist will be employed."
-msgstr ""
+msgstr "まれに、行動規範委員会がコミュニティメンバーのメンバーシップを一時的に止める場合があります。このような場合、コミュニティへの将来の危害を防ぐために、執行評議会とカーペントリーズコアチームに通知され、カーペントリーズコアチームの[即時対応チェックリスト](incident-response.html#checklists-for-responding-to-an-incident)が採用されます。"
 
 #: ../../topic_folders/policies/incident-reporting.md:28
 msgid ""
@@ -169,7 +169,7 @@ msgid ""
 "or other communication channels, the Code of Conduct committee will "
 "handle the review and follow up according to the procedures in the "
 "Enforcement Guidelines."
-msgstr ""
+msgstr "[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)またはその他のコミュニケーションチャンネルを通じてレポートが提出されると、行動規範委員会が[施行ガイドライン](enforcement-guidelines.md)の手順に従ってレビューとフォローアップを行います。"
 
 #~ msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
 #~ msgstr "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
