@@ -336,47 +336,47 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:14
 # unordered list
-msgid "* support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures."
+msgid "support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:15
 # unordered list
-msgid "* learn about the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#) and [reporting guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  "
+msgid "learn about the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#) and [reporting guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  "
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:16
 # unordered list
-msgid "* understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual) put in place for the relevant community spaces."
+msgid "understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual) put in place for the relevant community spaces."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:17
 # unordered list
-msgid "* actively help develop and maintain existing and new documents to facilitate the work of the [CoCc](https://github.com/carpentries/handbook/tree/master/topic_folders/policies). "
+msgid "actively help develop and maintain existing and new documents to facilitate the work of the [CoCc](https://github.com/carpentries/handbook/tree/master/topic_folders/policies). "
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:18
 # unordered list
-msgid "* avoid *conflicts of interest* [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC."
+msgid "avoid *conflicts of interest* [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:19
 # unordered list
-msgid "* maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee."
+msgid "maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:20
 # unordered list
-msgid "* not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so."
+msgid "not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:21
 # unordered list
-msgid "* hold themselves accountable for their responsibilities as trustees and understand that they are expected to follow through on their commitments."
+msgid "hold themselves accountable for their responsibilities as trustees and understand that they are expected to follow through on their commitments."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:22
 # unordered list
-msgid "* respect and promote diversity, equity, and inclusion in the community and act in the best interests of the Carpentries community impartially, putting aside any individual affiliations such as organizations or other Carpentries committees, and personal biases."
+msgid "respect and promote diversity, equity, and inclusion in the community and act in the best interests of the Carpentries community impartially, putting aside any individual affiliations such as organizations or other Carpentries committees, and personal biases."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:25
@@ -390,22 +390,22 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:29
 # unordered list
-msgid "* support the committee chair and the designated Core Team liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them."
+msgid "support the committee chair and the designated Core Team liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:30
 # unordered list
-msgid "* attend in the order of 75% of all *CoCc Business meetings* [2]. In these meetings, CoCc members will actively engage in discussion, voting and contributing in a constructive way, listening carefully, challenging sensitively and avoiding conflict. "
+msgid "attend in the order of 75% of all *CoCc Business meetings* [2]. In these meetings, CoCc members will actively engage in discussion, voting and contributing in a constructive way, listening carefully, challenging sensitively and avoiding conflict. "
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:31
 # unordered list
-msgid "* promptly respond to emails, or, if they realize they will be out of touch for a while, inform the committee chair."
+msgid "promptly respond to emails, or, if they realize they will be out of touch for a while, inform the committee chair."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:32
 # unordered list
-msgid "* participate in any training that is organized to support the work of the committee, and to responsibly use any technical solutions that the CoCc is asked to use in order to maintain the security and privacy of personal information conveyed to the committee."
+msgid "participate in any training that is organized to support the work of the committee, and to responsibly use any technical solutions that the CoCc is asked to use in order to maintain the security and privacy of personal information conveyed to the committee."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:35
@@ -419,8 +419,8 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:40
 msgid "If any member of the committee happens to face a conflict of interest while handling a case, they are  expected to:\n"
-"* inform the chair of the CoCc and/or the full committee of the conflict of interest, \n"
-"* not be involved in the case, and if required, temporarily leave their position as a CoCc member to avoid any bias."
+"inform the chair of the CoCc and/or the full committee of the conflict of interest, \n"
+"not be involved in the case, and if required, temporarily leave their position as a CoCc member to avoid any bias."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:45
@@ -434,12 +434,12 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:49
 # unordered list
-msgid "* **Business meetings**: these are meetings where we discuss the status of current documents, issues brought to us by the community and other CoC related matters."
+msgid "**Business meetings**: these are meetings where we discuss the status of current documents, issues brought to us by the community and other CoC related matters."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:50
 # unordered list
-msgid "* **Incident report related meetings**: in these meetings those that have volunteered to decide the course of action for a reported incident meet and discuss the situation. To decide on an issue, a minimum of 3 members must participate, thus not all members need to participate in every case."
+msgid "**Incident report related meetings**: in these meetings those that have volunteered to decide the course of action for a reported incident meet and discuss the situation. To decide on an issue, a minimum of 3 members must participate, thus not all members need to participate in every case."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:53
@@ -458,12 +458,12 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:60
 # unordered list
-msgid "* If a CoCc member wishes to leave the committee at any time, they will inform the Committee chair in advance (giving enough notice to hand-over their responsibility) in writing, stating their reasons for leaving."
+msgid "If a CoCc member wishes to leave the committee at any time, they will inform the Committee chair in advance (giving enough notice to hand-over their responsibility) in writing, stating their reasons for leaving."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:61
 # unordered list
-msgid "* Breach of any part of the CoC by any CoCc member may result in a fair procedure being put in motion that may result in them being asked to resign from the CoCc. Should this happen they will be given the opportunity to be heard. In the event they are asked to resign from the committee, they will accept the majority decision of the committee in this matter and resign at the earliest opportunity."
+msgid "Breach of any part of the CoC by any CoCc member may result in a fair procedure being put in motion that may result in them being asked to resign from the CoCc. Should this happen they will be given the opportunity to be heard. In the event they are asked to resign from the committee, they will accept the majority decision of the committee in this matter and resign at the earliest opportunity."
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:64
@@ -473,12 +473,12 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:66
 # unordered list
-msgid "* CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)"
+msgid "CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)"
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:67
 # unordered list
-msgid "* [CoC Handbook Documentation](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)"
+msgid "[CoC Handbook Documentation](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)"
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:70
@@ -488,12 +488,12 @@ msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:72
 # unordered list
-msgid "* This document is largely based on “[The Code of Good Governance, DIY Committee Guide](http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now"
+msgid "This document is largely based on “[The Code of Good Governance, DIY Committee Guide](http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now"
 msgstr ""
 
 #: topic_folders/policies/coc-membership-agreement.md:73
 # unordered list
-msgid "* [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora and Mary Gardiner, 2018"
+msgid "[How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora and Mary Gardiner, 2018"
 msgstr ""
 
 #: topic_folders/policies/code-of-conduct.md:1
@@ -537,32 +537,32 @@ msgstr "私たちは、生い立ちや身元に関係なく、すべての人々
 #: topic_folders/policies/code-of-conduct.md:15
 #: topic_folders/policies/code-of-conduct.md:44
 # unordered list
-msgid "* Use welcoming and inclusive language"
-msgstr "* 歓迎的で一部の人に限定しない言葉を使う"
+msgid "Use welcoming and inclusive language"
+msgstr "歓迎的で一部の人に限定しない言葉を使う"
 
 #: topic_folders/policies/code-of-conduct.md:16
 #: topic_folders/policies/code-of-conduct.md:45
 # unordered list
-msgid "* Be respectful of different viewpoints and experiences"
-msgstr "* さまざまな視点や経験を尊重する"
+msgid "Be respectful of different viewpoints and experiences"
+msgstr "さまざまな視点や経験を尊重する"
 
 #: topic_folders/policies/code-of-conduct.md:17
 #: topic_folders/policies/code-of-conduct.md:46
 # unordered list
-msgid "* Gracefully accept constructive criticism"
-msgstr "* 建設的な批判を円満に受け入れる"
+msgid "Gracefully accept constructive criticism"
+msgstr "建設的な批判を円満に受け入れる"
 
 #: topic_folders/policies/code-of-conduct.md:18
 #: topic_folders/policies/code-of-conduct.md:47
 # unordered list
-msgid "* Focus on what is best for the community"
-msgstr "* コミュニティに最適なものを重視する"
+msgid "Focus on what is best for the community"
+msgstr "コミュニティに最適なものを重視する"
 
 #: topic_folders/policies/code-of-conduct.md:19
 #: topic_folders/policies/code-of-conduct.md:48
 # unordered list
-msgid "* Show courtesy and respect towards other community members"
-msgstr "* 他のコミュニティメンバーに対して礼儀と敬意を示す"
+msgid "Show courtesy and respect towards other community members"
+msgstr "他のコミュニティメンバーに対して礼儀と敬意を示す"
 
 #: topic_folders/policies/code-of-conduct.md:21
 msgid "If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee [completing this form][reporting-form], who will take the appropriate action to address the situation."
@@ -1370,42 +1370,42 @@ msgid "**Immediate Response Checklist**"
 msgstr "**即時対応チェックリスト**"
 
 #: topic_folders/policies/incident-response.md:24
-msgid "* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number."
-msgstr "* インシデントに即座に対応するために、ファーストレスポンダー (法執行機関など) が必要かどうかを見積ります。もし必要そうなら、レポーター（被害者）にあなたと一緒にいて、適切な緊急応答番号に電話をかけるように頼んでください。"
+msgid "Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number."
+msgstr "インシデントに即座に対応するために、ファーストレスポンダー (法執行機関など) が必要かどうかを見積ります。もし必要そうなら、レポーター（被害者）にあなたと一緒にいて、適切な緊急応答番号に電話をかけるように頼んでください。"
 
 #: topic_folders/policies/incident-response.md:25
-msgid "* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established."
-msgstr "* 参加者の安全に対する一般的な脅威がある場合は、世間に認められた緊急対応番号に連絡してください。"
+msgid "If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established."
+msgstr "参加者の安全に対する一般的な脅威がある場合は、世間に認められた緊急対応番号に連絡してください。"
 
 #: topic_folders/policies/incident-response.md:26
-msgid "* If individuals are physically safe, contact law enforcement or security only at the reporter’s request."
+msgid "If individuals are physically safe, contact law enforcement or security only at the reporter’s request."
 msgstr "個人が身体的に安全である場合は、レポーター（被害者）の要求があった場合にのみ法執行機関または警備員に連絡してください"
 
 #: topic_folders/policies/incident-response.md:27
-msgid "* Follow any local guidelines for handling incidents, including if you have a legal reporting role. "
+msgid "Follow any local guidelines for handling incidents, including if you have a legal reporting role. "
 msgstr "インシデントを報告する法的義務があるかどうかを含めて、インシデントの処理に関する地域のガイドラインに従ってください。"
 
 #: topic_folders/policies/incident-response.md:29
 msgid "**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**\n"
-"* Ensure participants are safe.\n"
-"* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).\n"
-"* Listen to the reporter and write down as many details as possible.\n"
-"* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. \n"
-"* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
+"Ensure participants are safe.\n"
+"If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).\n"
+"Listen to the reporter and write down as many details as possible.\n"
+"Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. \n"
+"Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
 msgstr "**対面イベントチェックリスト (カーペントリーズのワークショップ, CarpentryCon, CarpentryConnect, カーペントリーズのインストラクターのトレーニング)**\n"
-"* 参加者の安全を確保します。\n"
-"* そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\n"
-"* レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
-"* [行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
-"* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
+"参加者の安全を確保します。\n"
+"そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\n"
+"レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
+"[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
+"ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #: topic_folders/policies/incident-response.md:36
 msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\n"
-"* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \n"
-"* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
+"Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \n"
+"If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
 msgstr "**オンラインイベントとコミュニケーションチャネルのチェックリスト (ティーチングデモ、コミュニティの議論、カーペントリーズのインストラクターのトレーニング、Slackチャンネル、TopicBox)**\n"
-"* イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。\n"
-"* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
+"イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。\n"
+"インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
 
 #: topic_folders/policies/incident-response.md:40
 msgid "If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident."
