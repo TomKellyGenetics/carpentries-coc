@@ -140,7 +140,7 @@ msgid "Ensure participants are safe."
 msgstr "参加者の安全を確保します。"
 
 #: ../../topic_folders/policies/incident-response.md:31
-msgid "If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident)."
+msgid "If not, refer to the Immediate Response Checklist."
 msgstr "そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。"
 
 #: ../../topic_folders/policies/incident-response.md:32
@@ -148,11 +148,11 @@ msgid "Listen to the reporter and write down as many details as possible."
 msgstr "レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。"
 
 #: ../../topic_folders/policies/incident-response.md:32
-msgid "Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance."
+msgid "Ask the reporter to report the incident via the Code of Conduct Incident Report Form. If they would rather you complete the report, complete the report with their assistance."
 msgstr "[行動規範インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。"
 
 #: ../../topic_folders/policies/incident-response.md:33
-msgid "Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
+msgid "Inform the workshop host that there was an incident and that a report was submitted via the incident report form. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
 msgstr "ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #: ../../topic_folders/policies/incident-response.md:36
