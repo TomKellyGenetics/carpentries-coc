@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../topic_folders/policies/termed-suspension.md:1
 msgid "Code of Conduct Termed Suspension Guidelines"
-msgstr ""
+msgstr "行動規範一時停止ガイドライン"
 
 #: ../../topic_folders/policies/termed-suspension.md:3
 msgid "The Carpentries Termed Suspension Checklist"
