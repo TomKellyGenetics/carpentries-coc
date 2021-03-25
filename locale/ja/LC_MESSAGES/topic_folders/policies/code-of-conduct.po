@@ -280,7 +280,7 @@ msgstr ""
 
 #: ../../topic_folders/policies/code-of-conduct.md:74
 msgid "Update Logs"
-msgstr "&nbsp;\n"
+msgstr "更新履歴"
 
 #: ../../topic_folders/policies/code-of-conduct.md:76
 msgid ""
@@ -342,7 +342,7 @@ msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:88
 msgid "About this Document"
-msgstr "&nbsp;\n"
+msgstr "この書類の情報"
 
 #: ../../topic_folders/policies/code-of-conduct.md:90
 msgid ""
