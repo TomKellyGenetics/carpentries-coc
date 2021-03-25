@@ -107,40 +107,29 @@ msgstr ""
 "はすぐに行動し、状況を落ち着かせるためにコミュニティメンバーが利用できるいかなるツールを用いても構いません。コミュニティメンバー個人ががすぐに行動する状況では、できるだけ早くワークショップの主催者に通知し、インシデントから24時間以内にレビューのために行動規範委員会にその行動をレポートする必要があります。即時対応が必要な場合は、即時対応チェックリストをご覧ください。"
 
 # header
-#: ../../topic_folders/policies/incident-response.md:21
-msgid "Checklists for Responding to an Incident"
+#: topic_folders/policies/incident-response.md:21
+msgid "##### Checklists for Responding to an Incident"
 msgstr "インシデントに対応するためのチェックリスト"
 
-# header
-#: ../../topic_folders/policies/incident-response.md:23
-msgid "Immediate Response Checklist"
-msgstr "早急な応答"
+#: topic_folders/policies/incident-response.md:23
+msgid "**Immediate Response Checklist**"
+msgstr "**即時対応チェックリスト**"
 
-#: ../../topic_folders/policies/incident-response.md:24
-msgid ""
-"Assess whether you need a first-responder (law enforcement, etc.) to "
-"immediately respond to the incident. If so, ask the reporter to stay with"
-" you and dial the appropriate emergency response number."
-msgstr ""
+#: topic_folders/policies/incident-response.md:24
+msgid "* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number."
+msgstr "* インシデントに即座に対応するために、ファーストレスポンダー (法執行機関など) が必要かどうかを見積ります。もし必要そうなら、レポーター（被害者）にあなたと一緒にいて、適切な緊急応答番号に電話をかけるように頼んでください。"
 
-#: ../../topic_folders/policies/incident-response.md:25
-msgid ""
-"If there is any general threat to participants and/or the safety of "
-"anyone attending a Carpentries event, contact the emergency response "
-"number established."
-msgstr ""
+#: topic_folders/policies/incident-response.md:25
+msgid "* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established."
+msgstr "* 参加者の安全に対する一般的な脅威がある場合は、世間に認められた緊急対応番号に連絡してください。"
 
-#: ../../topic_folders/policies/incident-response.md:26
-msgid ""
-"If individuals are physically safe, contact law enforcement or security "
-"only at the reporter’s request."
-msgstr ""
+#: topic_folders/policies/incident-response.md:26
+msgid "* If individuals are physically safe, contact law enforcement or security only at the reporter’s request."
+msgstr "個人が身体的に安全である場合は、レポーター（被害者）の要求があった場合にのみ法執行機関または警備員に連絡してください" 
 
-#: ../../topic_folders/policies/incident-response.md:27
-msgid ""
-"Follow any local guidelines for handling incidents, including if you have"
-" a legal reporting role."
-msgstr ""
+#: topic_folders/policies/incident-response.md:27
+msgid "* Follow any local guidelines for handling incidents, including if you have a legal reporting role. "
+msgstr "インシデントを報告する法的義務があるかどうかを含めて、インシデントの処理に関する地域のガイドラインに従ってください。"
 
 #: ../../topic_folders/policies/incident-response.md:29
 msgid ""
