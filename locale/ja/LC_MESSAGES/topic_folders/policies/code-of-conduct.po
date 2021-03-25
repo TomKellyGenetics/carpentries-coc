@@ -284,7 +284,7 @@ msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:76
 msgid ""
-"- 2020-09-23 The CoCc Governance document was added to the handbook. This "
+"\- 2020-09-23 The CoCc Governance document was added to the handbook. This "
 "document is approved by the members of the Code of Conduct committee, the"
 " executive director, Kari L. Jordan and executive committee. "
 "Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Word "
@@ -296,7 +296,7 @@ msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:78
 msgid ""
-"- 2019-07-17 The CoCc membership agreement document was added to the "
+"\- 2019-07-17 The CoCc membership agreement document was added to the "
 "handbook. This document is approved by the members of the Code of Conduct"
 " committee, the executive director, Tracy Teal and trainers community. "
 "Contributors: drafted by Malvika Sharan (January 2019) and intesively "
@@ -307,7 +307,7 @@ msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:80
 msgid ""
-"- 2019-02-28 Added appeal process, procedure for following up with a "
+"\- 2019-02-28 Added appeal process, procedure for following up with a "
 "reportee, terminology, CoC incident response procedure, termed supsension"
 " checklist, and expanded clauses for conflicts of interest. Contributors:"
 " Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha "
@@ -316,7 +316,7 @@ msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:82
 msgid ""
-"- 2018-09-11 Code of Conduct revised to provide straightforward examples of"
+"\- 2018-09-11 Code of Conduct revised to provide straightforward examples of"
 " both beneficial and unwanted behaviour. Also includes changes regarding "
 "evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin "
 "Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
@@ -324,14 +324,14 @@ msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:84
 msgid ""
-"- 2018-09-11 Reporting guidelines revised to include alternate contact "
+"\- 2018-09-11 Reporting guidelines revised to include alternate contact "
 "points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika"
 " Sharan, Samantha Ahern, and Simon Waldman."
 msgstr "&nbsp;\n"
 
 #: ../../topic_folders/policies/code-of-conduct.md:86
 msgid ""
-"- 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual "
+"\- 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual "
 "released. Documents were adapted from guidelines written by the Django "
 "Project, which was itself based on the Ada Initiative template and the "
 "PyCon 2013 Procedure for Handling Harassment Incidents. Contributors: "
