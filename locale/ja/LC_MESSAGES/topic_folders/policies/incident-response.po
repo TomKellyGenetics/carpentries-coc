@@ -149,11 +149,11 @@ msgstr "レポーターの話を聞き、できるだけ多くの詳細を書き
 
 #: ../../topic_folders/policies/incident-response.md:32
 msgid "Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance."
-msgstr "[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。"
+msgstr "[行動規範インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。"
 
 #: ../../topic_folders/policies/incident-response.md:33
 msgid "Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
-msgstr "ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
+msgstr "ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #: ../../topic_folders/policies/incident-response.md:36
 msgid ""
@@ -166,14 +166,14 @@ msgstr "**オンラインイベントとコミュニケーションチャネル�
 msgid ""
 "Inform the event host/meeting facilitator that there was an issue and "
 "send a report via the incident report form."
-msgstr "イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。"
+msgstr "イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してレポートを送信します。"
 
 #: ../../topic_folders/policies/incident-response.md:38
 msgid ""
 "If the incident involves the event host/meeting facilitator, please "
 "complete the incident report form and rest assured that confidentiality "
 "and your experience in our community is our first priority."
-msgstr "インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
+msgstr "インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
 
 #: ../../topic_folders/policies/incident-response.md:40
 msgid ""
@@ -273,10 +273,10 @@ msgstr "報告された人がレポーターまたは影響を受けた人に謝
 #~ "responding-to-an-incident)を参照してください。\n"
 #~ "レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
 #~ ""
-#~ "[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。"
+#~ "[行動規範インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。"
 #~ "\n"
 #~ ""
-#~ "ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
+#~ "ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #~ msgid ""
 #~ "**Online Events and Communications Channels"
@@ -298,10 +298,10 @@ msgstr "報告された人がレポーターまたは影響を受けた人に謝
 #~ "(ティーチングデモ、コミュニティの議論、カーペントリーズのインストラクターのトレーニング、Slackチャンネル、TopicBox)**"
 #~ "\n"
 #~ ""
-#~ "イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)を介してレポートを送信します。"
+#~ "イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)を介してレポートを送信します。"
 #~ "\n"
 #~ ""
-#~ "インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
+#~ "インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム](https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
 
 #~ msgid ""
 #~ "If a community member has violated "
