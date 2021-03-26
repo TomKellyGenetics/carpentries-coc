@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../readme.md:1
 msgid "Japanese handbook"
-msgstr ""
+msgstr "日本語のハンドブック"
 
 #: ../../readme.md:3
 msgid "This is a paritial translation of the Carpentries Handbook in Japanese."
@@ -28,7 +28,7 @@ msgstr ""
 
 #: ../../readme.md:6
 msgid "Why was this handbook created?"
-msgstr ""
+msgstr "このハンドブックがどうして作成されましすか？"
 
 #: ../../readme.md:8
 msgid ""
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../../readme.md:13
 msgid "Building this site"
-msgstr ""
+msgstr "このサイトのビルド"
 
 #: ../../readme.md:15
 msgid ""
