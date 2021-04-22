@@ -376,6 +376,6 @@ msgid ""
 "suspension."
 msgstr ""
 
-#~ msgid "[reporting-form]: (https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)"
-#~ msgstr "[reporting-form]: (https://docs.google.com/forms/d/e/1FAIpQLSeYqO37p0P-5JsEoF-E_edpZM5iRdFxWHTFqILo6LzqGS33YQ/viewform?fbzx=-8556883400541824673)"
+#~ msgid "[reporting-form]: (https://forms.gle/VpX8M1YZFPY8Qkhg9)"
+#~ msgstr "[reporting-form]: (https://forms.gle/VpX8M1YZFPY8Qkhg9)"
 
